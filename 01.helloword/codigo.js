@@ -1,2 +1,2 @@
 //Codigo javascript
-console.log("hello CLASS!!");
+console.log("Hello world");
